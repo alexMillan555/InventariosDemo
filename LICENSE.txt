@@ -1,0 +1,18 @@
+Copyright (c) 2025 Alejandro Millán Jiménez. Todos los derechos reservados.
+
+Este código fuente y su documentación asociada son propiedad exclusiva
+de Alejandro Millán Jiménez.
+
+NO SE CONCEDE PERMISO para usar, copiar, modificar, fusionar, publicar,
+distribuir, sublicenciar o vender copias de este software, ya sea total
+o parcialmente, sin el consentimiento previo por escrito del autor.
+
+Este repositorio se publica únicamente con fines de demostración de
+portafolio profesional. Cualquier uso comercial, reproducción o
+distribución requiere autorización expresa del autor.
+
+Para consultas sobre licenciamiento:
+Contacto: alexmillanjimenez@hotmail.com
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA.
